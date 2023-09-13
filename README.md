@@ -1,4 +1,16 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Laxman
+==============================================================================================================================
 
+Aspiring Full Stack Web Developer
+---------------------------------
+
+In a route to become a Full Stack Web Developer
+
+* 🌍  I'm based in Batala , Punjab
+* ✉️  You can contact me at [laxmanhenricks94@gmail.com](mailto:laxmanhenricks94@gmail.com)
+* 🚀  I'm currently working on [HTML CSS JS](http://github.com/Laxman67/HTML-CSS-JS-PROJECTS)
+* 🧠  I'm learning Javascript
+* 🤝  I'm open to collaborating on Front End projects \]ts
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/laxmanitstudent) 
 [![Instagram](https://img.shields.io/badge/instagram-%230077B5.svg?logo=instagram&logoColor=white)](https://www.instagram.com/curious_coder_laksh/?hl) 
