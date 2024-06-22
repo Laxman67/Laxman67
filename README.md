@@ -8,9 +8,9 @@ In a route to become a Full Stack Web Developer
 
 * 🌍  I'm based in Batala , Punjab
 * ✉️  You can contact me at [laxmanhenricks94@gmail.com](mailto:laxmanhenricks94@gmail.com)
-* 🚀  I'm currently working on [HTML CSS JS Projects ](http://github.com/Laxman67/HTML-CSS-JS-PROJECTS) ,[Advance CSS ](https://github.com/Laxman67/AdvanceCss)
-* 🧠  I'm learning Javascript
-* 🤝  I'm open to collaborating on Front End projects \]ts
+* 🚀  I'm currently working on creating MERN Stack Project ( Also DSA).
+* 🧠  I'm learning DSA + MERN Stack Project.
+* 🤝  I'm open to collaborating on Front End projects. 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/laxmanitstudent) 
 [![Instagram](https://img.shields.io/badge/instagram-%230077B5.svg?logo=instagram&logoColor=white)](https://www.instagram.com/curious_coder_laksh/?hl) 
