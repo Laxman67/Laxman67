@@ -1,15 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Laxman
 ==============================================================================================================================
 
-Aspiring Full Stack Web Developer
+Full Stack Web Developer
 ---------------------------------
 
 In a route to become a Full Stack Web Developer
 
 * 🌍  I'm based in Batala , Punjab
 * ✉️  You can contact me at [laxmanhenricks94@gmail.com](mailto:laxmanhenricks94@gmail.com)
-* 🚀  I'm currently working on creating MERN Stack Project ( Also DSA).
-* 🧠  I'm learning DSA + MERN Stack Project.
+* 🚀  I'm currently working on creating MERN Stack Projects
 * 🤝  I'm open to collaborating on Front End projects. 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/laxmanitstudent) 
