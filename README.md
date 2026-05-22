@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ---------------------------------
 
-In a route to become a Full Stack Web Developer
+In a route to become a Full Stack Developer
 
 * 🌍  I'm based in Batala , Punjab
 * ✉️  You can contact me at [laxman.webdev67@gmail.com](mailto:laxman.webdev67@gmail.com)
