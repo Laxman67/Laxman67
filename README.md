@@ -7,7 +7,7 @@ Full Stack Web Developer
 In a route to become a Full Stack Web Developer
 
 * 🌍  I'm based in Batala , Punjab
-* ✉️  You can contact me at [laxmanhenricks94@gmail.com](mailto:laxman.webdev67@gmail.com)
+* ✉️  You can contact me at [laxman.webdev67@gmail.com](mailto:laxman.webdev67@gmail.com)
 * 🚀  I'm currently working on creating MERN Stack Projects
 * 🤝  I'm open to collaborating on Front End projects. 
 ## 🌐 Socials:
