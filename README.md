@@ -12,7 +12,6 @@ I'm a Full Stack Developer | Concuring Generative AI with Pyhton
 * 🤝  I'm open to collaborating on Front End projects. 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/instagram-%230077B5.svg?logo=instagram&logoColor=white)](https://www.instagram.com/curious_coder_laksh/?hl) 
 
 
 # 💻 Tech Stack:
